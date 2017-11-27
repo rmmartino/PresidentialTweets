@@ -1,0 +1,13 @@
+PA6 Design Grade
+12/15
+
+5/5 Partner Agreement Complete and Reasonable
+* make sure you are giving yourselves enough time to actually get everything done
+
+4/5 List of functions and their details makes sense
+* user input should NOT be in a calculation function. Get it elsewhere, and pass as an argument when you call the function.
+* what are you going to do with the 3 top issues that the user chooses? How are you going to define an issue? I'm not sure I understand your goal in that question.
+
+3/5 Python file reads from file and stores correctly
+* need code that runs the file reading function (main)
+* need user input to be in a different function, file name passed as a parameter

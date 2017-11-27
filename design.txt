@@ -1,0 +1,48 @@
+1.
+function name: readFile
+purpose: make sure the file exists, make a list, process the file, ask the user for filename and make sure it exists
+parameters: file name input by the user
+return value: list of lists
+
+2.
+function name: optionMenu
+purpose: offer the user the options to find the candidate most mentioned with a word, make a graph of the frequency of candidates mentioned,
+find the frequency of change in candidate mentioned, make a graph of the frequency of an issue, or to quit
+parameters: none
+return value: choice
+
+3.
+function name: main
+purpose: give the purpose, call the functions, output the information for their choice
+parameters: none
+return value: none
+
+4.
+function name: candidateWordAssociation
+purpose: find which candidate was mentioned most with an inputted word
+parameters: list of lists
+return value: candidate name
+
+5.
+function name: nameFrequencyGraph
+purpose: make a graph that shows the frequency of how many times each candidate's name is mentioned
+parameters: list of lists
+return value: output file
+
+6.
+function name: frequencyChange
+purpose: determine the difference in how frequently each candidate's name is mentioned over 2 years and write to file
+parameters: list of lists, new list of lists
+return value: output file
+
+7.
+function name: issueFrequency
+purpose: create a graph that shows the frequency of issues chosen by the user
+parameters: list of lists
+return value: output file
+
+8.
+function name: issueMenu
+purpose: give the user the top 10 most talked about issues and ask them to choose 3
+parameters: none
+return value: choice
