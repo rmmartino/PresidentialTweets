@@ -1,0 +1,11 @@
+Reflection:
+I found this lab to be incredibly interesting. I learned how to open a file, which was given to me from the user. I also
+learned how to separate the information from the file and store it as variables. Then using the variables I created, do
+calculations. I used the same techniques from the past to output my calculations to the console. Then I wrote to a new
+file the information desired from the old file. Next time, I will try and get my algorithm right the first time and think
+more carefully through the use of functions. I had a difficult time to differentiate between the many counts necessary
+for all of my calculations. I really liked working with files because I can use a lot more information from another
+source, without having to ask the user for more information. I think its cool to see how a file can be separated to lines
+then to variables, which then I can manipulate. Working with files is definitely challenging because you have to be very
+careful where you call things and make sure you open adn close them correctly. But overall, I really enjyed this lab and
+found it very intriguing.

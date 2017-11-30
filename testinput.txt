@@ -1,0 +1,11 @@
+3|0|Yousseff, Mr. Gerious|male|0|C|XXX
+3|0|Zabour, Miss. Thamine|female|0|C|XXX
+2|1|Watt, Miss. Bertha J|female|12|S|Aberdeen/Portland, OR
+2|1|Watt, Mrs. James (Elizabeth Bessie Inglis Milne)|female|40|S|Aberdeen/Portland, OR
+1|1|Tucker, Mr. Gilbert Milligan Jr|male|31|C|Albany, NY
+1|1|Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)|female|47|S|Amenia, ND
+3|1|Dahl, Mr. Karl Edwart|male|45|S|Australia Fingal, ND
+1|1|Cardeza, Mr. Thomas Drake Martinez|male|36|C|Austria-Hungary/Germantown, Philadelphia, PA
+2|1|Caldwell, Master. Alden Gates|male|0.8333|S|Bangkok, Thailand/Roseville, IL
+2|1|Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)|female|22|S|Bangkok, Thailand/Roseville, IL
+2|1|Caldwell, Mr. Albert Francis|male|26|S|Bangkok, Thailand/Roseville, IL

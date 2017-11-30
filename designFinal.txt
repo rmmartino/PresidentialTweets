@@ -1,0 +1,95 @@
+My Question: The percentage of each gender who survived in the format "XX.X%"
+
+Function Name: File Processing
+Parameters: input file name and new file name
+Return: none
+Algorithm:
+1. Try:
+    a. Open the file input by the user
+    b. Open the new file to write
+    c. Set total survived count to zero
+    d. Set class1 survived to zero
+    e. Set class 1 total to zero
+    f. Set class2 survived to zero
+    g. set class 2 total to zero
+    h. Set class3 survived to zero
+    i. set class 3 total to zero
+    j. Set total passengers to zero
+    k. Set females equal to zero
+    l. set females survived to zero
+    m. Set males survived to zero
+    n. Set males equal to zero
+    o. For line in input file
+        i. Split by the "|" and store as Class, Survived, Name, Sex, Age, Embark, Dest
+        ii. Add one to total passengers
+        iii. if female
+            1. add one to female
+        iv. otherwise
+            1. add one to male
+        v. if class 1
+            1. add one to class 1 total
+        vi. otherwise if class 2
+            1. add one to class 2 total
+        vii. otherwise
+            1. add one to class 3 total
+        viii. if they survived
+            1. output to new file the name and destination
+            2. add one to total survivors
+            3. if female
+                a. add one to female survived
+            4. if male
+                a. add one to male survived
+            5. if class is 1
+                a. Add one to class1 survived
+            6. otherwise if class is 2
+                a. Add one to class2 survived
+            7. otherwise if class is 3
+                a.Add one to class3 survived
+    p. if class 1 total isn't zero
+        i. Calculate percent of class 1 that survived by class1 survived/ class 1 total x100
+    q. otherwise
+        i. set percent to zero
+    r. if class 2 total isn't zero
+        i. Calculate percent of class 2 that survived by class2 survived/ class 2 total x100
+    s. otherwise
+        i. set percent to zero
+    t. if class 3 total isn't zero
+        i. Calculate percent of class 3 that survived by class3 survived/ class 3 total x100
+    u. otherwise
+        i. set percent to zero
+    v. if females isn't zero
+        i. Calculate percentage of females survived by females survived/ females x 100
+    w. otherwise
+        i. set percent to zero
+    x. if males isn't zero
+        i. Calculate percentage of males survived by males survived / males x 100
+    y. Output total survivors
+    z. Output percent of class1 survived
+    aa. Output percent of class2 survived
+    bb. Output percent of class3 survived
+    cc. Output percentage survived of males
+    dd. Output percentage survived of females
+    ee. close input file
+    ff. close new file
+2. except FileNotFoundError:
+    a. output error message
+    b. end program
+
+Purpose: Error check if file exists
+Parameters: none
+Return: file name
+Algorithm:
+1. Ask the user for the file with the students names
+2. While the file doesnt exist
+    a. Ask the user for a new file name
+3. Return file name
+
+Function Name: Main
+Parameters: none
+Return: none
+1. Output the purpose
+2. Ask user to input the file to be read
+3. Ask user to input the new file name
+4. Call file processing function
+
+RUN MAIN
