@@ -1,7 +1,4 @@
-# CS201 PROGRAMMING ASSIGNMENT #4  
-60  POINTS   (10pts design, 50pts final)  
-DESIGN DUE: 11/02/16  
-FINAL DUE: 11/09/16  
+# CS201 Problem Outline written by Dr. Olsen
 
 ## PROBLEM 
 Create a program that will analyze data on the passenger of the Titanic. 
@@ -61,13 +58,6 @@ This algorithm should include your personally designed question.
 *NOTE:* There are no aspects of this design/code that you can google how to solve. The only appropriate googling will
  be if you want to understand more about the Titanic or its passengers.
 
-**DESIGN SUBMISSION: 11/02/16**
-Submit to GitHub: the description of your self-designed question and your algorithm for your program in
-designInitial.txt. The general format for your algorithm should match the format of PA3, and recent labs.
-
-***Remember to double check on github.com that your files pushed. If they didn’t, you need to push them.
- I can only see what is on github.com, not what is only on your computer.
-
 
 ## PROGRAMMING REQUIREMENTS
 After your design is complete and correct, it’s time to start programming and then testing:
@@ -89,38 +79,4 @@ before you start writing your code.
     if it works on this file then it *probably* works on the real file. This is a standard way to test file code, because
      it makes it easier to figure out the right answer.
   * Test your program using the test cases. Also test all error checking. Make sure it seems to work with the full file as well.
-
-## ASSIGNMENT REMINDERS
-Follow the programming assignment requirements document for comments, formatting, etc. You may not use lists even if
- you have learned them in a prior course, only because it significantly changes the algorithmic thinking on this problem
-  and it's good to be able to think through it this way too (we'll get there soon, I promise).
-
-Recall that you may not do someone else’s work, or have someone else do your work. Sharing of solutions is an honor code
- violation. This includes someone who is not in the class, including a tutor, writing any or all of your algorithm or code
-  or dictating to you how to do it. As everyone in the class is solving the same problem, no code may change hands. See the
-  syllabus for details or ask the professor if you are unsure.
-
-## EXTRA CREDIT 
-Create a particularly interesting/difficult question for your 4th question. You may ask if your planned question will
- qualify you for extra credit at any point, including during the design stage. The more impressive, the more extra credit
- (up to 2 points). *Describe in extracredit.txt why you think your question deserves extra credit (keep it brief).*
-
-## REFLECTION
-Write a short reflection about the programming assignment in reflection.txt: what did you learn, what would you do
- differently next time, what was difficult, what do you like/dislike about working with files?  This should be no more than a page.
-
-## FINAL SUBMISSION   
-* To GitHub:
-  * Your .py file
-  * A brief description of why you deserve extra credit in extracredit.txt if applicable
-  * Your reflection of the programming assignment (reflection.txt)
-  * Your final algorithm, including the changes you made based on the design feedback (designFinal.txt)
-  * Your testing input file of 10-15 lines (testinput.txt)
-  * Your test cases (testcases.txt)
-* Hardcopy in class:
-  * A printout of your .py file
-
-***Remember to double check on github.com that your files pushed. If they didn’t, you need to push them. I can only
- see what is on github.com, not what is only on your computer.
-
 
