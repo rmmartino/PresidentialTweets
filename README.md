@@ -1,4 +1,4 @@
-#CS201 PROGRAMMING ASSIGNMENT 6
+# CS201 PROGRAMMING ASSIGNMENT 6
 
 Assignment Description written by Dr. Olsen
 
